@@ -5,8 +5,10 @@
 This is the project for the 2026 Imperial Algothon, held by Imperial Algorithmic Trading Society and IMC.
 
 <p align="center">
-  <img src="images/intro.png" width="48%" />
-  <img src="images/real.png" width="48%" />
+  <img src="images/intro.png" width="80%" />
+</p>
+<p align="center">
+  <img src="images/real.png" width="80%" />
 </p>
 
 ---
