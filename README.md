@@ -20,7 +20,6 @@ This is the project for the 2026 Imperial Algothon, held by Imperial Algorithmic
 | `example.ipynb` | Official documentation provided by IMC |
 | `bot_template.py` | Official base bot framework provided by IMC |
 | `algothon.ipynb` | Trading bot written by me |
-| `verify_logic.py` | Test suite verifying the core logic of the bot |
 
 ---
 
